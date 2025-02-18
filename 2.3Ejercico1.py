@@ -3,8 +3,8 @@
 # una ecuación
 
 #            Autor:
-# María Alexandra Guardia Canche
-# Versión 1.0 : 17/02/2025
+# Gilbert Alexander Mendez Cervera
+# Versión 1.01 : 17/02/2025
 
 import numpy as np  # Se importa la librería NumPy para operaciones numéricas
 import matplotlib.pyplot as plt  # Se importa Matplotlib para graficar
